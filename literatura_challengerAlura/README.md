@@ -1,24 +1,31 @@
 # LiterAlura - Catálogo de Livros
 
-Bem-vindo ao LiterAlura, seu catálogo de livros interativo desenvolvido em Java!
-
-## Descrição
-O LiterAlura é um projeto emocionante onde você pode explorar um vasto catálogo de livros diretamente do seu terminal. Com ele, você pode buscar por livros, descobrir detalhes sobre autores e muito mais. Este projeto não apenas ensina técnicas avançadas de integração com APIs e manipulação de dados JSON, mas também oferece uma experiência prática e envolvente no desenvolvimento Java.
-
-## Objetivo
-Construir um catálogo de livros que proporciona pelo menos 5 opções de interação textual com os usuários. Utilize uma API específica para obter informações sobre os livros, conforme detalhado na coluna "Backlog/Pronto para iniciar" do projeto.
-
-## Tecnologias Utilizadas
-- **Java:** Linguagem principal de desenvolvimento.
-- **JDBC:** Para interação com o banco de dados.
-- **JSON-B:** Para manipulação de dados JSON.
-- **Trello:** Ferramenta de gestão de projeto para acompanhamento do progresso.
-
-## Executando o Projeto
-Para executar o LiterAlura localmente, siga estes passos:
-- Clone este repositório.
-- Configure seu ambiente Java conforme descrito no application.properties.example.
-- Compile o código e execute a aplicação para começar a explorar o catálogo de livros.
-
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests neste repositório.
+BLiterAlura: Seu Catálogo de Livros Interativo em Java
+Bem-vindo ao LiterAlura, um projeto que te coloca no controle de um catálogo de livros dinâmico, tudo através do seu terminal!
+Explore um Mundo de Livros
+Com o LiterAlura, você pode:
+Buscar por livros: Encontre títulos específicos navegando por autor, título ou gênero.
+Desvendar detalhes: Explore informações detalhadas sobre cada livro, incluindo sinopse, número de páginas e avaliações.
+Conhecer os autores: Descubra mais sobre os autores por trás dos seus livros favoritos.
+E muito mais! Explore as diversas opções de interação que o LiterAlura oferece.
+Mergulhando no Desenvolvimento Java
+O LiterAlura vai além de um catálogo, ele é uma jornada prática no mundo do desenvolvimento Java. Você irá:
+Dominar a integração com APIs: Aprenda a conectar-se e consumir dados da API do Google Books.
+Manipular dados JSON com maestria: Converta dados JSON em informações úteis para o seu catálogo.
+Construir uma aplicação interativa: Crie uma experiência envolvente para os usuários através do terminal.
+Tecnologias que Dão Vida ao Projeto
+O LiterAlura utiliza um conjunto poderoso de tecnologias:
+Java: A linguagem de programação robusta e versátil por trás de tudo.
+JDBC: Conecte-se e interaja com o banco de dados para armazenar informações.
+JSON-B: Facilite a manipulação de dados JSON recebidos da API.
+Trello: Organize suas tarefas, acompanhe o progresso e colabore com outros desenvolvedores.
+Dando os Primeiros Passos
+Pronto para explorar o código? Siga estas etapas simples:
+Clone o repositório: Baixe o código fonte para a sua máquina.
+Configure o ambiente: Ajuste as configurações no arquivo application.properties.example.
+Compile e execute: Prepare o projeto e inicie sua jornada no LiterAlura!
+Colabore com o Projeto
+Acreditamos no poder da comunidade! Sinta-se à vontade para:
+Abrir issues: Compartilhe suas ideias, sugestões ou problemas encontrados.
+Enviar pull requests: Contribua diretamente para o código com suas próprias melhorias.
+Junte-se a nós nesta aventura literária e vamos construir juntos o melhor catálogo de livros em Java!
